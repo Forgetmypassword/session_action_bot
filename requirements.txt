@@ -1,0 +1,6 @@
+dill
+pandas
+python-telegram-bot
+numpy
+catboost
+scikit-learn
